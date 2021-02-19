@@ -193,9 +193,9 @@ class AccessResponse{
     }
 
     /**
-     * method
+     * toMethod
      */
-    public function method(){
+    public function toMethod(){
         return $this->method;
     }
 }
